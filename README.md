@@ -15,6 +15,13 @@
   * F: Contempt
   * G: Disgust
   * H: Fear
+  
+<p align="center">
+  <img src="https://github.com/Nikeshbajaj/ifexd/raw/master/images/S1.jpg" width="700"/>
+</p>
+  
+  
+  
 
 
 ______________________________________
