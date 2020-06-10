@@ -4,11 +4,7 @@
   <img src="https://github.com/Nikeshbajaj/ifexd/raw/master/images/S1.jpg" width="900"/>
 </p>
 
-### **[Homepage](https://ifexd.github.io)**
-### **[Github](https://github.com/Nikeshbajaj/ifexd)**
-### **[PyPi - project](https://pypi.org/project/ifexd/)**
-
-### **[Homepage](https://ifexd.github.io)** | **[Github](https://github.com/Nikeshbajaj/ifexd)**  |  **[PyPi - project](https://pypi.org/project/ifexd/)** |
+### Links: **[Homepage](https://ifexd.github.io)** | **[Github](https://github.com/Nikeshbajaj/ifexd)**  |  **[PyPi - project](https://pypi.org/project/ifexd/)** |
 
 **Indian Facial Expression Dataset**
 * 12K images including three views - Front, Left, Right
