@@ -26,7 +26,5 @@ ______________________________________
 
 * **Nikesh Bajaj**
 * http://nikeshbajaj.in
-* n.bajaj@qmul.ac.uk
-* nikkeshbajaj@gmail.com
-### PhD Student: Queen Mary University of London & University of Genoa
+### PhD Student: Queen Mary University of London
 ______________________________________
