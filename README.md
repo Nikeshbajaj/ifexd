@@ -1,5 +1,9 @@
 # Indian Facial Expression Dataset
 
+<p align="center">
+  <img src="https://github.com/Nikeshbajaj/ifexd/raw/master/images/S1.jpg" width="900"/>
+</p>
+
 ### **[Github](https://ifexd.github.io)**
 ### **[PyPi - project](https://pypi.org/project/ifexd/)**
 
@@ -15,13 +19,6 @@
   * F: Contempt
   * G: Disgust
   * H: Fear
-  
-<p align="center">
-  <img src="https://github.com/Nikeshbajaj/ifexd/raw/master/images/S1.jpg" width="700"/>
-</p>
-  
-  
-  
 
 
 ______________________________________
